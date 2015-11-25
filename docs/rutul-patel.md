@@ -2,3 +2,4 @@
 - [ ] India
 - [ ] Punjabi
 - [ ] Watching comedy serials
+- [ ] White color
