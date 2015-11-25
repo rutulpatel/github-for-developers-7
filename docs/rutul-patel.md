@@ -1,0 +1,4 @@
+- [ ] Rutul Patel
+- [ ] India
+- [ ] Punjabi
+- [ ] Watching comedy serials
